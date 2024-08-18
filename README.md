@@ -1,8 +1,8 @@
-# React + Vite
+# Discreption
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a dynamic and responsive clone of Upwork using ReactJS, featuring seamless navigation and interactive user interfaces.
+Used Hooks And Conditions. 
+It's designed to replicate the core functionalities of the Upwork platform, providing a smooth user experience.
 
-Currently, two official plugins are available:
+https://github.com/user-attachments/assets/2ecb4787-4d74-4f34-9cf6-6ea5d56d5b8b
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
