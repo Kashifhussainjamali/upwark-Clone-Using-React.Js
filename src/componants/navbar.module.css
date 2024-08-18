@@ -1,0 +1,62 @@
+.logo{
+    height: 30px;
+    padding-right: 40px;
+    margin-top: 8px;
+}
+.mainul{
+    display: flex;
+    list-style: none;
+    padding-top: 15px;
+}
+#find{
+    color: green;
+    font-size: 14px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+#find2{
+    color: black;
+    font-size: 14px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.searchbar{
+    display: flex;
+    border: 1px solid silver;
+    border-radius: 25px;
+    padding: 5px;
+    height: 40px;
+    align-items: center;
+    margin-left: 140px;
+    width: 400px;
+}
+.searchlogo{
+    height: 20px;
+    padding-right: 5px;
+}
+.input{
+    border: none;
+    margin-right: 100px;
+    outline: none;
+}
+.jobs{
+    padding-left: 5px;
+    font-size: 15px;
+}
+.line{
+    padding-right: 15px;
+    color: rgb(226, 226, 226);
+    color: black;
+}
+.icons{
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 50px;
+
+}
+.profile{
+    height: 35px;
+    margin-left: 10px;
+    border-radius: 25px;
+}
